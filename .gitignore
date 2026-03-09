@@ -21,3 +21,7 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Session & Architecture
+session.txt
+ARCHITECTURE.md
