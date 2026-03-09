@@ -1,0 +1,50 @@
+{
+  "company_name": "TechCorp Indonesia",
+  "tagline": "Empowering Business with AI Innovation",
+  "founded": "2020",
+  "headquarters": "Jakarta, Indonesia",
+  "employees": "150+",
+  "mission": "To democratize artificial intelligence and make AI accessible for businesses of all sizes in Southeast Asia.",
+  "vision": "To become the leading AI solutions provider in Southeast Asia by 2030.",
+  "values": [
+    "Innovation First - We constantly push the boundaries of what's possible",
+    "Customer Centric - Your success is our success",
+    "Transparency - We believe in clear communication and honest partnerships",
+    "Continuous Learning - We grow together through knowledge sharing"
+  ],
+  "services": [
+    {
+      "name": "AI Consultation",
+      "description": "Expert guidance on AI strategy and implementation for your business"
+    },
+    {
+      "name": "Custom AI Development",
+      "description": "Tailored AI solutions built specifically for your business needs"
+    },
+    {
+      "name": "AI Training & Workshops",
+      "description": "Comprehensive training programs for teams and individuals"
+    },
+    {
+      "name": "Cloud AI Integration",
+      "description": "Seamless integration of AI capabilities into your existing cloud infrastructure"
+    }
+  ],
+  "contact": {
+    "email": "hello@techcorp.id",
+    "phone": "+62 21 5555 8888",
+    "address": "Sudirman Central Business District, Jakarta 12190, Indonesia",
+    "website": "https://www.techcorp.id"
+  },
+  "social_media": {
+    "linkedin": "linkedin.com/company/techcorp-indonesia",
+    "twitter": "@techcorp_id",
+    "instagram": "@techcorp.indonesia"
+  },
+  "achievements": [
+    "Best AI Startup Indonesia 2022",
+    "Top 10 Tech Companies Southeast Asia 2023",
+    "Google Cloud Partner of the Year 2023 - Indonesia",
+    "Certified B Corporation since 2023"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "PROD001",
+      "name": "ChatGenius",
+      "category": "Conversational AI",
+      "description": "Advanced AI-powered chatbot solution for customer service automation. Supports multiple languages including Indonesian, English, and Mandarin.",
+      "features": [
+        "Natural Language Understanding (NLU)",
+        "Multi-language support (ID, EN, ZH)",
+        "Sentiment analysis",
+        "Seamless human handoff",
+        "Analytics dashboard",
+        "Integration with WhatsApp, Telegram, Facebook Messenger"
+      ],
+      "pricing": {
+        "starter": "Rp 2.500.000/month - Up to 1,000 conversations",
+        "professional": "Rp 7.500.000/month - Up to 10,000 conversations",
+        "enterprise": "Custom pricing - Unlimited conversations"
+      },
+      "use_cases": ["Customer support", "Lead generation", "Internal helpdesk", "E-commerce assistance"]
+    },
+    {
+      "id": "PROD002",
+      "name": "DocuMind",
+      "category": "Document Intelligence",
+      "description": "AI document processing system that extracts, analyzes, and organizes information from various document formats automatically.",
+      "features": [
+        "OCR with 99% accuracy",
+        "Support for PDF, DOCX, XLSX, images",
+        "Automatic data extraction",
+        "Smart categorization",
+        "Keyword search across documents",
+        "Automated workflow triggers"
+      ],
+      "pricing": {
+        "starter": "Rp 3.000.000/month - Up to 500 documents",
+        "professional": "Rp 10.000.000/month - Up to 5,000 documents",
+        "enterprise": "Custom pricing - Unlimited documents"
+      },
+      "use_cases": ["Invoice processing", "Contract analysis", "HR document management", "Legal document review"]
+    },
+    {
+      "id": "PROD003",
+      "name": "PredictaBI",
+      "category": "Predictive Analytics",
+      "description": "Business intelligence platform powered by machine learning for accurate forecasting and data-driven decision making.",
+      "features": [
+        "Sales forecasting",
+        "Customer churn prediction",
+        "Inventory optimization",
+        "Real-time dashboards",
+        "Automated insights",
+        "Custom model training"
+      ],
+      "pricing": {
+        "starter": "Rp 5.000.000/month - Basic predictions",
+        "professional": "Rp 15.000.000/month - Advanced analytics",
+        "enterprise": "Custom pricing - Full customization"
+      },
+      "use_cases": ["Sales forecasting", "Demand planning", "Risk assessment", "Market trend analysis"]
+    },
+    {
+      "id": "PROD004",
+      "name": "VoiceGenie",
+      "category": "Voice AI",
+      "description": "Intelligent voice assistant for phone automation and voice-activated workflows with natural Indonesian accent.",
+      "features": [
+        "Speech-to-text conversion",
+        "Text-to-speech with natural voices",
+        "Indonesian accent optimization",
+        "Call routing automation",
+        "Voice command recognition",
+        "Call recording and transcription"
+      ],
+      "pricing": {
+        "starter": "Rp 4.000.000/month - Up to 500 minutes",
+        "professional": "Rp 12.000.000/month - Up to 3,000 minutes",
+        "enterprise": "Custom pricing - Unlimited minutes"
+      },
+      "use_cases": ["IVR systems", "Voice assistants", "Call center automation", "Meeting transcription"]
+    },
+    {
+      "id": "PROD005",
+      "name": "ImageSense",
+      "category": "Computer Vision",
+      "description": "Advanced image recognition and analysis platform for quality control, security, and visual content management.",
+      "features": [
+        "Object detection and classification",
+        "Facial recognition (with consent)",
+        "Defect detection for manufacturing",
+        "License plate recognition",
+        "Image content moderation",
+        "Real-time video analysis"
+      ],
+      "pricing": {
+        "starter": "Rp 6.000.000/month - Up to 1,000 images",
+        "professional": "Rp 18.000.000/month - Up to 10,000 images",
+        "enterprise": "Custom pricing - Unlimited images"
+      },
+      "use_cases": ["Quality control", "Security surveillance", "Retail analytics", "Content moderation"]
+    },
+    {
+      "id": "PROD006",
+      "name": "RAG Chatbot Pro",
+      "category": "Conversational AI",
+      "description": "Enterprise-grade RAG (Retrieval-Augmented Generation) chatbot that answers questions based on your company's knowledge base.",
+      "features": [
+        "Document upload (PDF, DOCX, TXT)",
+        "Automatic knowledge base indexing",
+        "Source citation in responses",
+        "Multi-document search",
+        "Custom embedding models",
+        "Conversation history",
+        "Admin dashboard"
+      ],
+      "pricing": {
+        "starter": "Rp 3.500.000/month - Up to 50 documents",
+        "professional": "Rp 10.000.000/month - Up to 500 documents",
+        "enterprise": "Custom pricing - Unlimited documents"
+      },
+      "use_cases": ["Internal knowledge base", "Customer FAQ automation", "Product documentation assistant", "Training material Q&A"]
+    }
+  ],
+  "support_info": {
+    "email": "support@techcorp.id",
+    "hours": "Monday - Friday, 9:00 AM - 6:00 PM WIB",
+    "response_time": "Within 24 hours for all plans"
+  }
+}

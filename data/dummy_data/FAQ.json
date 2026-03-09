@@ -1,0 +1,79 @@
+{
+  "faq": [
+    {
+      "id": "FAQ001",
+      "question": "Bagaimana cara memulai menggunakan layanan TechCorp Indonesia?",
+      "answer": "Anda dapat memulai dengan menghubungi tim kami melalui email hello@techcorp.id atau mengisi formulir kontak di website kami. Tim kami akan menjadwalkan sesi konsultasi gratis untuk memahami kebutuhan bisnis Anda dan merekomendasikan solusi AI yang tepat."
+    },
+    {
+      "id": "FAQ002",
+      "question": "Apakah ada trial atau demo untuk produk-produk TechCorp?",
+      "answer": "Ya, kami menyediakan free trial 14 hari untuk sebagian besar produk kami. Untuk solusi enterprise, kami dapat mengatur demo khusus yang disesuaikan dengan use case bisnis Anda."
+    },
+    {
+      "id": "FAQ003",
+      "question": "Berapa lama waktu implementasi untuk solusi AI?",
+      "answer": "Waktu implementasi bervariasi tergantung kompleksitas proyek. Untuk solusi standar seperti ChatGenius, implementasi biasanya memakan waktu 2-4 minggu. Untuk solusi custom, waktu implementasi dapat berkisar 1-3 bulan."
+    },
+    {
+      "id": "FAQ004",
+      "question": "Apakah data saya aman dengan TechCorp?",
+      "answer": "Keamanan data adalah prioritas utama kami. Kami menggunakan enkripsi end-to-end, comply dengan standar keamanan internasional, dan semua data disimpan di server yang berlokasi di Indonesia untuk mematuhi regulasi lokal."
+    },
+    {
+      "id": "FAQ005",
+      "question": "Apakah saya bisa mengintegrasikan solusi AI dengan sistem yang sudah ada?",
+      "answer": "Tentu! Semua produk kami dirancang dengan API-first approach dan dapat diintegrasikan dengan sistem existing Anda seperti CRM, ERP, database, dan platform lainnya. Tim technical support kami akan membantu proses integrasi."
+    },
+    {
+      "id": "FAQ006",
+      "question": "Bagaimana dengan support setelah implementasi?",
+      "answer": "Kami menyediakan comprehensive support termasuk dokumentasi lengkap, training untuk tim Anda, dan dedicated support channel. Untuk paket professional dan enterprise, Anda akan mendapatkan dedicated account manager."
+    },
+    {
+      "id": "FAQ007",
+      "question": "Apakah ada kontrak jangka panjang atau bisa bulanan?",
+      "answer": "Kami menawarkan fleksibilitas. Ada paket bulanan tanpa kontrak jangka panjang, dan juga paket tahunan dengan diskon hingga 20%. Kami juga menyediakan custom contract untuk kebutuhan enterprise."
+    },
+    {
+      "id": "FAQ008",
+      "question": "Bahasa apa saja yang didukung oleh chatbot TechCorp?",
+      "answer": "Produk conversational AI kami mendukung Bahasa Indonesia, English, Mandarin, dan beberapa bahasa daerah Indonesia. Kami juga dapat menambahkan bahasa custom sesuai kebutuhan bisnis Anda."
+    },
+    {
+      "id": "FAQ009",
+      "question": "Bagaimana cara kerja RAG Chatbot?",
+      "answer": "RAG (Retrieval-Augmented Generation) Chatbot bekerja dengan cara mengambil informasi dari knowledge base perusahaan Anda (dokumen, FAQ, manual, dll), kemudian menggunakan AI untuk menghasilkan jawaban yang akurat berdasarkan informasi tersebut. Setiap jawaban dilengkapi dengan sumber/citation sehingga Anda dapat memverifikasi informasinya."
+    },
+    {
+      "id": "FAQ010",
+      "question": "Format dokumen apa saja yang bisa diupload ke RAG Chatbot?",
+      "answer": "RAG Chatbot mendukung berbagai format dokumen termasuk PDF, DOCX (Microsoft Word), TXT, CSV, dan JSON. Kami juga sedang mengembangkan dukungan untuk PPTX (PowerPoint) dan XLSX (Excel)."
+    },
+    {
+      "id": "FAQ011",
+      "question": "Berapa banyak dokumen yang bisa saya upload?",
+      "answer": "Jumlah dokumen tergantung paket yang Anda pilih. Paket Starter mendukung hingga 50 dokumen, Professional hingga 500 dokumen, dan Enterprise unlimited. Ukuran maksimal per dokumen adalah 10MB."
+    },
+    {
+      "id": "FAQ012",
+      "question": "Apakah saya bisa update knowledge base kapan saja?",
+      "answer": "Ya, Anda dapat menambah, mengedit, atau menghapus dokumen dari knowledge base kapan saja melalui dashboard admin. Perubahan akan langsung terindex dan tersedia untuk chatbot dalam hitungan menit."
+    },
+    {
+      "id": "FAQ013",
+      "question": "Metode pembayaran apa yang diterima?",
+      "answer": "Kami menerima transfer bank, kartu kredit (Visa, Mastercard), dan e-wallet (GoPay, OVO, Dana). Untuk paket enterprise, kami juga menerima pembayaran melalui invoice dengan termin 30 hari."
+    },
+    {
+      "id": "FAQ014",
+      "question": "Apakah ada diskon untuk startup atau organisasi non-profit?",
+      "answer": "Ya! Kami memiliki program khusus untuk startup (diskon hingga 30%) dan organisasi non-profit (diskon hingga 50%). Hubungi tim sales kami untuk informasi lebih lanjut."
+    },
+    {
+      "id": "FAQ015",
+      "question": "Bagaimana jika saya tidak puas dengan produknya?",
+      "answer": "Kami menyediakan money-back guarantee 30 hari untuk semua paket. Jika Anda tidak puas dalam 30 hari pertama, kami akan mengembalikan pembayaran penuh tanpa pertanyaan."
+    }
+  ]
+}
